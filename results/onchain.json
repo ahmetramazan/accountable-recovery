@@ -1,0 +1,270 @@
+{
+  "chainId": 31337,
+  "delta": 10,
+  "results": [
+    {
+      "calldataBytes": 2660,
+      "calldataGas": 31232,
+      "gasUsed": 215090,
+      "n": 7,
+      "step": "Install",
+      "t": 4
+    },
+    {
+      "calldataBytes": 2020,
+      "calldataGas": 25576,
+      "gasUsed": 237997,
+      "n": 7,
+      "step": "Request",
+      "t": 4
+    },
+    {
+      "calldataBytes": 196,
+      "calldataGas": 1876,
+      "gasUsed": 49298,
+      "n": 7,
+      "step": "Cancel",
+      "t": 4
+    },
+    {
+      "calldataBytes": 2020,
+      "calldataGas": 25660,
+      "gasUsed": 238081,
+      "n": 7,
+      "step": "Request (epoch 1)",
+      "t": 4
+    },
+    {
+      "calldataBytes": 36,
+      "calldataGas": 432,
+      "gasUsed": 50350,
+      "n": 7,
+      "step": "Finalize",
+      "t": 4
+    },
+    {
+      "calldataBytes": 548,
+      "calldataGas": 5972,
+      "gasUsed": 164370,
+      "n": 7,
+      "step": "Advance",
+      "t": 4
+    },
+    {
+      "calldataBytes": 3140,
+      "calldataGas": 37160,
+      "gasUsed": 456310,
+      "n": 7,
+      "step": "UpdateKey",
+      "t": 4
+    },
+    {
+      "calldataBytes": 2020,
+      "calldataGas": 25624,
+      "gasUsed": 238045,
+      "n": 7,
+      "step": "Request (n=7)",
+      "t": 4
+    },
+    {
+      "calldataBytes": 4644,
+      "calldataGas": 55296,
+      "gasUsed": 415599,
+      "n": 7,
+      "step": "Dispute, policy, |S|=4",
+      "t": 4
+    },
+    {
+      "calldataBytes": 2020,
+      "calldataGas": 25636,
+      "gasUsed": 238057,
+      "n": 7,
+      "step": "Request (n=7, |S|=4)",
+      "t": 4
+    },
+    {
+      "calldataBytes": 4644,
+      "calldataGas": 55308,
+      "gasUsed": 410692,
+      "n": 7,
+      "step": "Dispute, bad, |S|=4",
+      "t": 4
+    },
+    {
+      "calldataBytes": 5988,
+      "calldataGas": 74388,
+      "gasUsed": 260227,
+      "n": 20,
+      "step": "Install",
+      "t": 10
+    },
+    {
+      "calldataBytes": 3684,
+      "calldataGas": 52200,
+      "gasUsed": 266017,
+      "n": 20,
+      "step": "Request",
+      "t": 10
+    },
+    {
+      "calldataBytes": 196,
+      "calldataGas": 1876,
+      "gasUsed": 49298,
+      "n": 20,
+      "step": "Cancel",
+      "t": 10
+    },
+    {
+      "calldataBytes": 3684,
+      "calldataGas": 52236,
+      "gasUsed": 266053,
+      "n": 20,
+      "step": "Request (epoch 1)",
+      "t": 10
+    },
+    {
+      "calldataBytes": 36,
+      "calldataGas": 432,
+      "gasUsed": 50350,
+      "n": 20,
+      "step": "Finalize",
+      "t": 10
+    },
+    {
+      "calldataBytes": 548,
+      "calldataGas": 5972,
+      "gasUsed": 164370,
+      "n": 20,
+      "step": "Advance",
+      "t": 10
+    },
+    {
+      "calldataBytes": 6468,
+      "calldataGas": 80304,
+      "gasUsed": 502510,
+      "n": 20,
+      "step": "UpdateKey",
+      "t": 10
+    },
+    {
+      "calldataBytes": 3684,
+      "calldataGas": 52212,
+      "gasUsed": 266029,
+      "n": 20,
+      "step": "Request (n=20)",
+      "t": 10
+    },
+    {
+      "calldataBytes": 9636,
+      "calldataGas": 124992,
+      "gasUsed": 648941,
+      "n": 20,
+      "step": "Dispute, policy, |S|=10",
+      "t": 10
+    },
+    {
+      "calldataBytes": 3684,
+      "calldataGas": 52248,
+      "gasUsed": 266065,
+      "n": 20,
+      "step": "Request (n=20, |S|=20)",
+      "t": 10
+    },
+    {
+      "calldataBytes": 9636,
+      "calldataGas": 125040,
+      "gasUsed": 863473,
+      "n": 20,
+      "step": "Dispute, bad, |S|=20",
+      "t": 10
+    },
+    {
+      "calldataBytes": 13668,
+      "calldataGas": 173760,
+      "gasUsed": 455400,
+      "n": 50,
+      "step": "Install",
+      "t": 25
+    },
+    {
+      "calldataBytes": 7524,
+      "calldataGas": 113484,
+      "gasUsed": 330683,
+      "n": 50,
+      "step": "Request",
+      "t": 25
+    },
+    {
+      "calldataBytes": 196,
+      "calldataGas": 1876,
+      "gasUsed": 49298,
+      "n": 50,
+      "step": "Cancel",
+      "t": 25
+    },
+    {
+      "calldataBytes": 7524,
+      "calldataGas": 113460,
+      "gasUsed": 330659,
+      "n": 50,
+      "step": "Request (epoch 1)",
+      "t": 25
+    },
+    {
+      "calldataBytes": 36,
+      "calldataGas": 432,
+      "gasUsed": 50350,
+      "n": 50,
+      "step": "Finalize",
+      "t": 25
+    },
+    {
+      "calldataBytes": 548,
+      "calldataGas": 5948,
+      "gasUsed": 164346,
+      "n": 50,
+      "step": "Advance",
+      "t": 25
+    },
+    {
+      "calldataBytes": 14148,
+      "calldataGas": 179688,
+      "gasUsed": 609591,
+      "n": 50,
+      "step": "UpdateKey",
+      "t": 25
+    },
+    {
+      "calldataBytes": 7524,
+      "calldataGas": 113424,
+      "gasUsed": 330623,
+      "n": 50,
+      "step": "Request (n=50)",
+      "t": 25
+    },
+    {
+      "calldataBytes": 21156,
+      "calldataGas": 285684,
+      "gasUsed": 1176485,
+      "n": 50,
+      "step": "Dispute, policy, |S|=25",
+      "t": 25
+    },
+    {
+      "calldataBytes": 7524,
+      "calldataGas": 113484,
+      "gasUsed": 330683,
+      "n": 50,
+      "step": "Request (n=50, |S|=50)",
+      "t": 25
+    },
+    {
+      "calldataBytes": 21156,
+      "calldataGas": 285756,
+      "gasUsed": 1657363,
+      "n": 50,
+      "step": "Dispute, bad, |S|=50",
+      "t": 25
+    }
+  ]
+}

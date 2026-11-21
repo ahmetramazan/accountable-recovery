@@ -1,0 +1,51 @@
+{
+  "cpu": "Apple M2 Pro",
+  "reps": 20,
+  "results": [
+    {
+      "S": 4,
+      "combineMs": 3.192125,
+      "combinerRound1Ms": 3.033833,
+      "ctBytes": 1185,
+      "dkgAllPartiesMs": 24.420458,
+      "dkgPerPartyMs": 3.488636857142857,
+      "guardianRound1Ms": 0.113917,
+      "guardianRound2Ms": 0.273875,
+      "judgeMs": 3.260417,
+      "n": 7,
+      "t": 4,
+      "traceMs": 0.219584,
+      "verifyMs": 0.861125
+    },
+    {
+      "S": 10,
+      "combineMs": 8.195875000000001,
+      "combinerRound1Ms": 7.240916,
+      "ctBytes": 2851,
+      "dkgAllPartiesMs": 351.913292,
+      "dkgPerPartyMs": 17.5956646,
+      "guardianRound1Ms": 0.11741700000000001,
+      "guardianRound2Ms": 0.270459,
+      "judgeMs": 7.828333999999999,
+      "n": 20,
+      "t": 10,
+      "traceMs": 0.230792,
+      "verifyMs": 0.895834
+    },
+    {
+      "S": 25,
+      "combineMs": 20.511458,
+      "combinerRound1Ms": 18.145000000000003,
+      "ctBytes": 6695,
+      "dkgAllPartiesMs": 4701.444208,
+      "dkgPerPartyMs": 94.02888416,
+      "guardianRound1Ms": 0.120667,
+      "guardianRound2Ms": 0.295541,
+      "judgeMs": 19.0865,
+      "n": 50,
+      "t": 25,
+      "traceMs": 0.229375,
+      "verifyMs": 0.878625
+    }
+  ]
+}

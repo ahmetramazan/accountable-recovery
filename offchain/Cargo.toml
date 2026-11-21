@@ -1,0 +1,20 @@
+[package]
+name = "akr"
+version = "0.1.0"
+edition = "2021"
+description = "Off-chain parties (guardians, combiner, auditor) of accountable key recovery, test vectors and benchmarks"
+license = "MIT"
+
+[dependencies]
+blst = "0.3"
+sha3 = "0.10"
+num-bigint = "0.4"
+num-traits = "0.2"
+rand = "0.8"
+hex = "0.4"
+serde_json = "1"
+k256 = { version = "0.13", features = ["ecdsa"] }
+ureq = { version = "2", features = ["json"] }
+
+[profile.release]
+opt-level = 3
